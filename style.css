@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body { 
+    font-family: 'pacifico' , sans-serif;
+    min-height: 100vh;
+    box-sizing: border-box;
+
+}
+.header{
+     
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color:darkorchid(233, 76, 76, 0.7);
+    padding: 0px 10%;
+    display: flex;
+    align-items: center;
+
+}
